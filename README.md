@@ -23,4 +23,8 @@
 - Run the project by typing 'localhost/PGLife/index.php' in your browser
 
 ## Preview
-The preview of the front-end of the website can be seen on the following link: https://manvendra2509.github.io/PGLife/
+
+The preview of the front-end of the website can be seen 
+
+![Screenshot (9)](https://github.com/shivam-1-byte/PGFinder/assets/105426207/9f1b92e1-792d-4119-9aad-e23ffe7825a4)
+![Screenshot (10)](https://github.com/shivam-1-byte/PGFinder/assets/105426207/a2e5f200-e8f5-46ac-9840-6a005ff26103)
